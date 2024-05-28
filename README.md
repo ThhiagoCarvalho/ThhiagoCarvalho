@@ -16,4 +16,4 @@
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
 
-### Adoro tecnologia por mudar a vida das pessoas atraves da programacao
+### Adoro a tecnologia por sua capacidade de transformar a vida das pessoas de maneira impactante, especialmente através da programação  que permite criar soluções e melhorando a eficiencia em diversas áreas do dia a dia.
