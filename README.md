@@ -1,6 +1,6 @@
 ### OLA!! EU SOU O THIAGO 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/y_itsuki10)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/y_itsuki10](https://www.instagram.com/thh.carvalho/))
 
 ![Thhiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical)
 
