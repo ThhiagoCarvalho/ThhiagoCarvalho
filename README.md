@@ -1,4 +1,4 @@
-## OLA!! EU SOU O THIAGO 👋 
+# OLA!! EU SOU O THIAGO 👋 
 ### Atualmente estou cursando na area TI e adoro a tecnologia por sua capacidade de transformar a vida das pessoas de maneira impactante, especialmente através da programação  que permite criar soluções e melhorando a eficiencia em diversas áreas do dia a dia.
 
 <br>
