@@ -1,5 +1,5 @@
-## OLA!! EU SOU O THIAGO 👋 
-### Atualmente estou cursando na area TI e adoro a tecnologia por sua capacidade de transformar a vida das pessoas de maneira impactante, especialmente através da programação  que permite criar soluções e melhorando a eficiencia em diversas áreas do dia a dia.
+## OLÁ!! EU SOU O THIAGO 👋 
+### Atualmente, estou estudando na área de TI  e adoro a tecnologia por sua capacidade de transformar a vida das pessoas mais fáceis. Gosto de programação porque, além de permitir criar soluções inovadoras, ajuda a tornar processos mais eficientes e facilita o dia a dia em diversas áreas
 
 <br>
 
@@ -9,7 +9,7 @@
 </div>
 
 
-### 🛠Tecnologias que eu uso no dia a dia  
+### 🛠Tecnologias que eu uso no dia a dia:
 <div style="display: inline_block"><br/>
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
