@@ -3,7 +3,11 @@
 
 <br>
 
-![Thhiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical)
+<div style="display: flex; justify-content: space-between; align-items: center; ">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical"width="53%" >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThhiagoCarvalho&layout=compact&theme=radical" width="40%">
+</div>
+
 
 ### 🛠Tecnologias que eu uso no dia a dia  
 <div style="display: inline_block"><br/>
