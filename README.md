@@ -5,7 +5,7 @@
 
 ![Thhiago GitHub stats](https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical)
 
-### Tecnologias que eu uso no dia a dia  
+### 🛠Tecnologias que eu uso no dia a dia  
 <div style="display: inline_block"><br/>
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
