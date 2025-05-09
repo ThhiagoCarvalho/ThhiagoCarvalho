@@ -1,5 +1,5 @@
 ## OLÁ!! EU SOU O THIAGO 👋 
-### Atualmente, estou estudando na área de TI  e adoro a tecnologia por sua capacidade de transformar a vida das pessoas mais fáceis. Gosto de programação porque, além de permitir criar soluções inovadoras, ajuda a tornar processos mais eficientes e facilita o dia a dia em diversas áreas
+### Atualmente estagio como programador na área de TI e adoro a tecnologia por sua capacidade de transformar a vida das pessoas mais fáceis. o que ajuda a tornar processos mais eficientes e facilita o dia a dia em diversas áreas
 
 <br>
 
