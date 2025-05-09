@@ -1,5 +1,5 @@
-## OLÁ!! EU SOU O THIAGO 👋 
-### Atualmente estagio como programador na área de TI e adoro a tecnologia, estou em busca da minha primeira oportunidade profissional na área de informática, onde posso contribuir com minhas habilidades e aprender ainda mais.
+## Olá!! Eu sou o Thiago 👋 
+### Atualmente estagio como programador na área de TI e adoro a tecnologia, estou em busca da minha primeira oportunidade profissional na área de informática, onde posso contribuir com minhas habilidades e aprender ainda mais!
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center; ">
