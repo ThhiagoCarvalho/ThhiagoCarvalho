@@ -1,12 +1,12 @@
 ## OLÁ!! EU SOU O THIAGO 👋 
-### Atualmente estagio como programador na área de TI e adoro a tecnologia por sua capacidade de transformar a vida das pessoas mais fáceis. o que ajuda a tornar processos mais eficientes e facilita o dia a dia em diversas áreas
-
+### Atualmente estagio como programador na área de TI e adoro a tecnologia, estou em busca da minha primeira oportunidade profissional na área de informática, onde posso contribuir com minhas habilidades e aprender ainda mais.
 <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center; ">
   <img src="https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical"width="53%" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThhiagoCarvalho&layout=compact&theme=radical&hide=css" width="40%">
 </div>
+
 
 
 ### 🛠Tecnologias que eu uso no dia a dia:
