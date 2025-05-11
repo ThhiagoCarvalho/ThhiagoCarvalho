@@ -8,6 +8,7 @@
 </div>
 
 
+---
 
 ### 🛠Tecnologias que eu uso no dia a dia:
 <div style="display: inline_block"><br/>
@@ -28,6 +29,11 @@
 
 </div><br/>
 
-### 🌐Rede social:
-[![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagocesarcarvalho/)
-<br>
+### 💼 Cargo Atual
+Atualmente, estou atuando como Estagiário FullStack na [@AppStorm](https://github.com/AppStorm).
+
+---
+
+### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/thiagocesarcarvalho/)
+
