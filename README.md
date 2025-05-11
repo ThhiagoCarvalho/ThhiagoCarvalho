@@ -1,6 +1,9 @@
 ## Olá!! Eu sou o Thiago 👋 
-### Atualmente estagio como programador na área de TI e adoro a tecnologia, estou em busca da minha primeira oportunidade profissional na área de informática, onde posso contribuir com minhas habilidades e aprender ainda mais!
+### Tenho 17 anos e estou no último ano do ensino médio técnico em Informática. 
+### Estagio como dev Full usando PHP e NodeJS, com foco em construção de APIs REST.
 
+
+---
 
 <div style="display: flex; justify-content: space-between; align-items: center; ">
   <img src="https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical"width="53%" >
@@ -27,7 +30,7 @@
 </div><br/>
 
 ### 💼 Cargo Atual
-### Atualmente, estou atuando como Estagiário FullStack na [@AppStorm](https://github.com/AppStorm).
+### Atualmente, atuo como Estagiário FullStack na [@AppStorm](https://github.com/AppStorm).
 
 ---
 
