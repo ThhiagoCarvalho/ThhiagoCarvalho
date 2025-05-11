@@ -30,7 +30,7 @@
 </div><br/>
 
 ### 💼 Cargo Atual
-### Atualmente, atuo como Estagiário FullStack na [@AppStorm](https://github.com/AppStorm).
+### Atualmente, atuo como Estagiário FullStack na [@AppStorm](https://github.com/AppstormBrasil).
 
 ---
 
