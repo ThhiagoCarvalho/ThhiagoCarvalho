@@ -1,16 +1,15 @@
 ## Olá!! Eu sou o Thiago 👋 
 ### Atualmente estagio como programador na área de TI e adoro a tecnologia, estou em busca da minha primeira oportunidade profissional na área de informática, onde posso contribuir com minhas habilidades e aprender ainda mais!
-<br>
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; ">
   <img src="https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical"width="53%" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThhiagoCarvalho&layout=compact&theme=radical&hide=css" width="40%">
 </div>
 
-
 ---
 
-### 🛠Tecnologias que eu uso no dia a dia:
+### 🛠 Tecnologias que eu uso no dia a dia:
 <div style="display: inline_block"><br/>
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
     <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
@@ -25,12 +24,10 @@
     <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
     <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-
-
 </div><br/>
 
 ### 💼 Cargo Atual
-Atualmente, estou atuando como Estagiário FullStack na [@AppStorm](https://github.com/AppStorm).
+### Atualmente, estou atuando como Estagiário FullStack na [@AppStorm](https://github.com/AppStorm).
 
 ---
 
