@@ -1,6 +1,6 @@
 ## Olá!! Eu sou o Thiago 👋 
- ###  Tenho 17 anos e estou no último ano do ensino médio técnico em Informática 💻
- ###  Estagio como dev Full usando PHP e NodeJS, com foco em construção de APIs REST 🚀
+   Tenho 17 anos e estou no último ano do ensino médio técnico em Informática 💻
+   Estagio como dev Full usando PHP e NodeJS, com foco em construção de APIs REST 🚀
 
 
 ---
