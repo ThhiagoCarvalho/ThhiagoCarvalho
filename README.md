@@ -16,7 +16,7 @@
 
 ---
 
-### 🛠 Tecnologias que uso no dia a dia:
+### 🛠 Stack atual
 <p align="center">
   <a href="https://miguelbritobarbosa.com.br/projetos">
     <img src="https://skillicons.dev/icons?i=php,js,cs,py,java,kotlin,mysql,html,css,bootstrap,git,github" alt="Tecnologias" />
