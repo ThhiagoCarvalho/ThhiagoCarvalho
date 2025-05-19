@@ -1,4 +1,4 @@
-# Olá!! Eu sou o Thiago 👋 
+## Olá!! Eu sou o Thiago 👋 
    🎓Tenho 17 anos e estou no último ano do ensino médio técnico em Informática 💻
    
    💼 Atualmente, faço estágio como Desenvolvedor Full Stack, utilizando principalmente **PHP** e **Node.js**.
