@@ -1,36 +1,39 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Thiago+%21%21;Estagi%C3%A1rio+Full+Stack+%26+Estudante+T%C3%A9cnico+em+Inform%C3%A1tica" alt="Typing SVG" width="60%" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Thiago+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="55%" />
   </a>
   <br><br>
 
-  <a href="mailto:thiagocesarcarvalho@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail"/>
+  <a href="mailto:seuemail@gmail.com" alt="Gmail" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
-
-  <a href="https://www.linkedin.com/in/thiagocesarcarvalho/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/seulinkedin" alt="Linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 ---
 
-### 🎓Tenho 17 anos e estou no último ano do ensino médio técnico em Informática 💻
-   
-### 💼 Atualmente, faço estágio como Desenvolvedor Full Stack, utilizando principalmente **PHP** e **Node.js**.
-
-### 🚀 Tenho foco na construção de **APIs REST** e estou sempre buscando aprender e evoluir na área da programação.
-
-
+### 👨‍💻 About Me 
+🎓 Tenho **17 anos** e estou no último ano do **ensino médio técnico em Informática** 💻  
+💼 Atualmente, faço estágio como **Desenvolvedor Full Stack**, utilizando principalmente **PHP** e **Node.js**.  
+🚀 Tenho foco na construção de **APIs REST** e estou sempre buscando aprender e evoluir na área da programação.  
 
 ---
 
-### Tecnologias que utilizo:
-<p align="center">
-  <a href="https://miguelbritobarbosa.com.br/projetos">
-    <img src="https://skillicons.dev/icons?i=php,js,cs,py,java,kotlin,mysql,html,css,bootstrap,git,github" alt="Tecnologias" />
-  </a>
-</p>
+<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="45%">
+
+### 💻 My Skills  
+<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,php,aws,docker,kubernetes" width="50%">
+
+<br>
+
+### 📖 Currently Studying  
+<img src="https://skillicons.dev/icons?i=nodejs,react,go,mongodb,redis,angular" width="40%">   
+
+
+
+
 
 ---
 
@@ -38,11 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical"width="50%" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThhiagoCarvalho&layout=compact&theme=radical&hide=css" width="38%">
 </div>
-
----
-
-
-
 
 
 
