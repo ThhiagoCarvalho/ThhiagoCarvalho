@@ -17,7 +17,7 @@
 ### 👨‍💻 Sobre Mim  
 
 🎓 Tenho **17 anos** e estou concluindo o **Ensino Médio Técnico em Informática** 💻.  
-💼 Atuei como **Desenvolvedor Full Stack** em um estágio de **5 meses**, trabalhando principalmente com **PHP** e **Node.js**, desenvolvendo aplicações web e APIs.  
+💼 Atuei como **Desenvolvedor Full Stack** em um estágio de **5 meses**, trabalhando principalmente com **PHP** e **Framework7**, desenvolvendo aplicações web e APIs.  
 🚀 Tenho grande interesse por tecnologia e buscando sempre estar constantemente explorando novas ferramentas e boas práticas para evoluir como desenvolvedor.
 
 ---
