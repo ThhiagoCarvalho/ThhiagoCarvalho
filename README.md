@@ -23,7 +23,9 @@
 
 ---
 
-<img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="45%">
+<p align="center">
+<img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="gif gengar" min-width="300px" max-width="300px" width="300px" align="right">
+</p>
 
 ### 💻 My Skills  
 <img src="https://skillicons.dev/icons?i=javascript,php,python,mysql,php,nodejs,html,css,mongodb,figma" width="55%">
@@ -34,7 +36,7 @@
 
 ---
 
-<div style="display: flex; justify-content: space-between; align-items: center; ">
+<div style="display: flex; justify-content: space-between; align-items: center; gap="50px"; ">
   <img src="https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical"width="50%" >
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThhiagoCarvalho&layout=compact&theme=radical&hide=css" width="38%">
 </div>
