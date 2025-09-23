@@ -14,9 +14,10 @@
 
 ---
 
-### 👨‍💻 About Me 
+### 👨‍💻 About Me  
+
 🎓 Tenho **17 anos** e estou no último ano do **ensino médio técnico em Informática** 💻  
-💼 Atualmente, faço estágio como **Desenvolvedor Full Stack**, utilizando principalmente **PHP** e **Node.js**.  
+💼 Já estagiei como **Desenvolvedor Full Stack**, utilizando principalmente **PHP** e **Node.js** por **5 meses**.  
 🚀 Tenho foco na construção de **APIs REST** e estou sempre buscando aprender e evoluir na área da programação.  
 
 ---
@@ -24,16 +25,11 @@
 <img align="right" src="https://github.com/user-attachments/assets/394b315c-eac8-413b-af00-1f0f26809439" alt="coding cat" width="45%">
 
 ### 💻 My Skills  
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,mysql,php,aws,docker,kubernetes" width="50%">
-
+<img src="https://skillicons.dev/icons?i=javascript,php,python,mysql,php,nodejs,html,css,mongodb,figma" width="55%">
 <br>
 
 ### 📖 Currently Studying  
-<img src="https://skillicons.dev/icons?i=nodejs,react,go,mongodb,redis,angular" width="40%">   
-
-
-
-
+  <img src="https://skillicons.dev/icons?i=java,kotlin,cs,redis,postgres,supabase&theme=dark" width="35%" />
 
 ---
 
