@@ -34,8 +34,11 @@
 <img src="https://skillicons.dev/icons?i=java,kotlin,cs,redis,postgres,supabase&theme=dark" width="35%" />
 
 ---
+---
 
-<div style="display: flex; justify-content: space-between; align-items: center; gap:50px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical" width="50%" >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThhiagoCarvalho&layout=compact&theme=radical&hide=css" width="38%">
+<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThhiagoCarvalho&layout=compact&theme=radical&hide=css" width="38%" />
 </div>
+
+
