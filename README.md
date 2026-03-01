@@ -1,4 +1,4 @@
-<h1 align="center">Thiago Cesar Carvalho 🚀</h1>
+<h1 align="center">Thiago Cesar Carvalho </h1>
 
 <p align="center">
 Técnico em Informática | Estudante de Ciência da Computação | Desenvolvedor Full Stack
@@ -28,7 +28,7 @@ Aplicação web desenvolvida para digitalizar e otimizar o registro e gerenciame
 - Modelagem de banco de dados relacional
 - Estruturação em camadas (rotas, controllers e serviços)
 - Integração de recursos de IA
-- Desenvolvimento Full Stack
+
 
 ---
 
@@ -56,17 +56,17 @@ Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológ
 
 ### 🧠 Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,php,kotlin,python&theme=dark" />
 </p>
 
 ### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,php&theme=dark" />
 </p>
 
 ### 🎨 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" />
 </p>
 
 ### 🗄️ Bancos de Dados
@@ -74,13 +74,11 @@ Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológ
   <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
 </p>
 
-### 🛠️ Ferramentas & Metodologias
+### 🛠️ Ferramentas 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
 </p>
-<p>
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
-</p>
+
 
 
 ---
@@ -94,9 +92,7 @@ Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológ
 
 ### 📫 Contato
 
-📧 thiagocesarcarvalho@gmail.com  
-🔗 linkedin.com/in/thiagocesarcarvalho  
-💻 github.com/ThhiagoCarvalho  
+[LinkedIn](https://www.linkedin.com/in/thiagocesarcarvalho/) • thiagocesarcarvalho@gmail.com
 
 ---
 
