@@ -1,45 +1,102 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=5500&pause=1000&color=FFFFFF&center=true&width=435&lines=Hi%2C+I'm+Thiago+!+!;Welcome+to+my+Github+page+%3A)" alt="Typing SVG" width="55%" />
-  </a>
-  <br><br>
-
-  <a href="mailto:thiagocesarcarvalho@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thiagocesarcarvalho" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 👨‍💻 Sobre Mim  
-
-🎓 Tenho **17 anos** e estou concluindo o **Ensino Médio Técnico em Informática** 💻.  
-💼 Atuei como **Desenvolvedor Full Stack** em um estágio de **5 meses**, trabalhando principalmente com **PHP** e **Framework7**, desenvolvendo aplicações web e APIs.  
-🚀 Tenho grande interesse por tecnologia e buscando sempre estar constantemente explorando novas ferramentas e boas práticas para evoluir como desenvolvedor.
-
----
+<h1 align="center">Thiago Cesar Carvalho 🚀</h1>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/66/36/d3/6636d37ba22a391c6353b1436a81f656.gif" alt="gif gengar" min-width="300px" max-width="300px" width="300px" align="right">
+Técnico em Informática | Estudante de Ciência da Computação | Desenvolvedor Full Stack
 </p>
 
-### 💻 Minhas Habilidades  
-<img src="https://skillicons.dev/icons?i=javascript,php,python,mysql,nodejs,html,css,mongodb,figma" width="55%">
-<br>
-
-### 📖 Atualmente Estudando  
-<img src="https://skillicons.dev/icons?i=java,kotlin,cs,redis,postgres,supabase&theme=dark" width="35%" />
-
-<br><br>
 ---
-<br>
 
-<div align="center" style="display:flex; justify-content:center; gap:20px; flex-wrap:wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThhiagoCarvalho&show_icons=true&theme=radical" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThhiagoCarvalho&layout=compact&theme=radical&hide=css" width="38%" />
-</div>
+### 👨‍💻 Sobre Mim
 
+Sou Técnico em Informática formado pela Univap e atualmente curso **Ciência da Computação**, 
+
+Atuo como **Desenvolvedor Full Stack**, com experiência prática na construção de aplicações web completas — desde o frontend até APIs e banco de dados.
+
+Tenho experiência com **JavaScript (Node.js, Express, React), PHP, MySQL e MongoDB**.
+
+🎯 Busco oportunidades como Desenvolvedor Júnior ou Estagiário em Desenvolvimento Web.
+
+---
+
+### 🚀 Projetos em Destaque
+
+ 📌 Sistema de Ocorrências Escolares – UNIVAP
+
+Aplicação web desenvolvida para digitalizar e otimizar o registro e gerenciamento de ocorrências estudantis.
+
+- API desenvolvida em **Node.js e Express**
+- Modelagem de banco de dados relacional
+- Estruturação em camadas (rotas, controllers e serviços)
+- Integração de recursos de IA
+- Desenvolvimento Full Stack
+
+---
+
+ 🌱 EcoSystem – Plataforma de Sustentabilidade Climática
+
+Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológicas para desafios ambientais.
+
+- Desenvolvimento em **HTML e JavaScript**
+- Integração via **API REST**
+- Autenticação com **JWT**
+- Comunicação estruturada entre Frontend e Backend
+
+
+---
+
+### 🏆 Conquistas
+
+🥈 2º Lugar – Maratona de Programação Univap (2025)  
+🥈 2º Lugar – Hackathon Univap (2025)  
+🎓 Conclusão do Ensino Médio Técnico em Informática  
+
+---
+
+### 💻 Stack Principal
+
+### 🧠 Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,cs&theme=dark" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask&theme=dark" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+</p>
+
+### 🗄️ Bancos de Dados
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
+</p>
+
+### 🛠️ Ferramentas & Metodologias
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" />
+</p>
+
+
+---
+
+### 🎓 Formação
+
+🎓 Ensino Médio Técnico em Informática – Colégio Técnico Antônio Teixeira Fernandes (Univap)  
+🎓 Bacharelado em Ciência da Computação – Univap (em andamento)
+
+---
+
+### 📫 Contato
+
+📧 thiagocesarcarvalho@gmail.com  
+🔗 linkedin.com/in/thiagocesarcarvalho  
+💻 github.com/ThhiagoCarvalho  
+
+---
 
