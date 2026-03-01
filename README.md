@@ -51,42 +51,35 @@ Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológ
 🎓 Conclusão do Ensino Médio Técnico em Informática  
 
 ---
+### ⚙️ Stack Atual
 
-### 💻 Stack Principal
+<div style="display: inline_block"><br/>
+    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+     <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+    <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+    <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+</div>
 
-### 🧠 Linguagens
-<p>
-  <img src="https://skillicons.dev/icons?i=js,php,kotlin,python&theme=dark" />
-</p>
+---
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,js,php&theme=dark" />
-</p>
+### 🛠️ Proficiência
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap&theme=dark" />
-</p>
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+     <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+    <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+    
 
-### 🗄️ Bancos de Dados
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" />
-</p>
-
-### 🛠️ Ferramentas 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" />
-</p>
-
-
+</div>
 
 ---
 
 ### 🎓 Formação
 
-🎓 Ensino Médio Técnico em Informática – Colégio Técnico Antônio Teixeira Fernandes (Univap)  
-🎓 Bacharelado em Ciência da Computação – Univap (em andamento)
+-  Ensino Médio Técnico em Informática – Colégio Técnico Antônio Teixeira Fernandes (Univap)  
+-  Bacharelado em Ciência da Computação – Univap (em andamento)
 
 ---
 
