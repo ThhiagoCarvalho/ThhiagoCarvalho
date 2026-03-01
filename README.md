@@ -59,6 +59,9 @@ Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológ
     <img align="center" alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+   
 </div>
 
 ---
@@ -70,6 +73,9 @@ Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológ
      <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img align="center" alt="CSharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
     <img align="center" alt="Git" src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+     <img align="center" alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-563D7C?style=for-the-badge&logo=figma&logoColor=white"/>
+    
     
 
 </div>
@@ -87,5 +93,4 @@ Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológ
 
 [LinkedIn](https://www.linkedin.com/in/thiagocesarcarvalho/) • thiagocesarcarvalho@gmail.com
 
----
 
