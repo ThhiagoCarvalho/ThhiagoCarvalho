@@ -44,13 +44,7 @@ Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológ
 
 ---
 
-### 🏆 Conquistas
 
-🥈 2º Lugar – Maratona de Programação Univap (2025)  
-🥈 2º Lugar – Hackathon Univap (2025)  
-🎓 Conclusão do Ensino Médio Técnico em Informática  
-
----
 ### ⚙️ Stack Atual
 
 <div style="display: inline_block"><br/>
