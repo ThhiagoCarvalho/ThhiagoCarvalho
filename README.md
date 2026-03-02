@@ -18,32 +18,6 @@ Tenho experiência com **JavaScript (Node.js, Express, React), PHP, MySQL e Mong
 
 ---
 
-### 🚀 Projetos em Destaque
-
- 📌 Sistema de Ocorrências Escolares – UNIVAP
-
-Aplicação web desenvolvida para digitalizar e otimizar o registro e gerenciamento de ocorrências estudantis.
-
-- API desenvolvida em **Node.js e Express**
-- Modelagem de banco de dados relacional
-- Estruturação em camadas (rotas, controllers e serviços)
-- Integração de recursos de IA
-
-
----
-
- 🌱 EcoSystem – Plataforma de Sustentabilidade Climática
-
-Projeto desenvolvido durante o Hackathon Univap com foco em soluções tecnológicas para desafios ambientais.
-
-- Desenvolvimento em **HTML e JavaScript**
-- Integração via **API REST**
-- Autenticação com **JWT**
-- Comunicação estruturada entre Frontend e Backend
-
-
----
-
 
 ### ⚙️ Stack Atual
 
