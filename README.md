@@ -53,7 +53,7 @@ Tenho experiência com **JavaScript (Node.js, Express, React), PHP, MySQL e Mong
 ### 🎓 Formação
 
 -  Ensino Médio Técnico em Informática – Colégio Técnico Antônio Teixeira Fernandes (Univap)  
--  Bacharelado em Ciência da Computação – Univap (em andamento)
+-  Cursando Bacharelado em Ciência da Computação – Univap 
 
 ---
 
