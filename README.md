@@ -12,9 +12,9 @@ Sou Técnico em Informática formado pela Univap e atualmente curso **Ciência d
 
 Atuo como **Desenvolvedor Full Stack**, com experiência prática na construção de aplicações web completas — desde o frontend até APIs e banco de dados.
 
-Tenho experiência com **JavaScript (Node.js, Express, React), PHP, MySQL e MongoDB**.
+Tenho experiência com **JavaScript,NodeJS,Laravel,React,MySQL & NoSQL**.
 
-🎯 Busco oportunidades como Desenvolvedor Júnior ou Estagiário em Desenvolvimento Web.
+🎯 Busco oportunidades como Desenvolvedor Júnior ou Trainee em Desenvolvimento Web.
 
 ---
 
